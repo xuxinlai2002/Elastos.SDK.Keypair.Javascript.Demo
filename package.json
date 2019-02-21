@@ -1,0 +1,28 @@
+{
+  "name": "elastos.sdk.keypair.javascript.demo",
+  "version": "0.0.6",
+  "description": "xuxinlai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuxinlai2002/Elastos.SDK.Keypair.Javascript.Demo.git"
+  },
+  "keywords": [
+    "Elastos",
+    "SDK",
+    "Javascript",
+    "Demo"
+  ],
+  "author": "xuxinlai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xuxinlai2002/Elastos.SDK.Keypair.Javascript.Demo/issues"
+  },
+  "homepage": "https://github.com/xuxinlai2002/Elastos.SDK.Keypair.Javascript.Demo#readme",
+  "dependencies": {
+    "elastos-wallet-js": "^1.0.9"
+  }
+}
